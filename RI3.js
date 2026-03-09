@@ -135,7 +135,7 @@ cliente3.telefones.add(new Telefone("21","9554565687"))
 empresa.clientes.add(cliente3)
 
 let end4 = new Endereco("AM","Manaus","Avenida Rio Amazonas", 10)
-let cliente4 = new Cliente("Fernando","54230065987",end4)
+let cliente4 = new Cliente("Fernando","54230065987",end4) /*ésegundafeiracapitao*/
 
 cliente4.telefones.add(new Telefone("92","9845120154"))
 cliente4.telefones.add(new Telefone("92","902165890"))
